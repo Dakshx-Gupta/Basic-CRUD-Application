@@ -1,5 +1,5 @@
 # Basic CRUD Application
-This is a simple Library Management System created for university Database Management System project in my second semester. 
+This is a simple Library Management System created for Database Management System project in my second semester. 
 
 # Features
 1. Add new books
